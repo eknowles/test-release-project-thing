@@ -1,0 +1,19 @@
+{
+  "name": "test-release-project-thing",
+  "version": "1.0.0",
+  "description": "Just a test project to try out some things, nothing to see here",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/eknowles/test-release-project-thing.git"
+  },
+  "author": "Edward Knowles",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eknowles/test-release-project-thing/issues"
+  },
+  "homepage": "https://github.com/eknowles/test-release-project-thing"
+}
